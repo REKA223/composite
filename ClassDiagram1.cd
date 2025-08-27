@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EXPLORADORARCHIVOS.ARCHIVO">
+    <Position X="7.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAEAAgAAAAAAAAAAAAAAAAAAAAEI=</HashCode>
+      <FileName>ARCHIVO.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EXPLORADORARCHIVOS.CARPETA">
+    <Position X="10.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQACQAAAAAAAAAgAAAAAAAAAAAAAAAAEAAAEA=</HashCode>
+      <FileName>CARPETA.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="EXPLORADORARCHIVOS.IELEMENTO">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>IElemento.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
